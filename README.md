@@ -2,7 +2,7 @@
 
 I'm Roy, a TypeScript & Kubernetes enthusiast, from Israel.
 
-I ❤️ exploring new technologies and deliver value to my users
+I ❤️ exploring new technologies and delivering value to my users
 
 Core developer of the popular open source project [Datree](https://github.com/datreeio/datree) ☸️
 
