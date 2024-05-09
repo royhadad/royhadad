@@ -4,7 +4,7 @@ I'm Roy, a TypeScript & Kubernetes enthusiast, from Israel.
 
 I ❤️ exploring new technologies and delivering value to my users
 
-Core developer of the popular open source project [Datree](https://github.com/datreeio/datree) ☸️
+Core developer of the popular open source project [Datree](https://github.com/datreeio/datree) (6k+ GitHub stars ⭐️)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=royhadad)](https://github.com/anuraghazra/github-readme-stats)
 
