@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roy, a TypeScript & Kubernetes enthusiast, from Israel.
+I'm Roy, a Fullstack engineer from Israel.
 
 I ❤️ exploring new technologies and delivering value to my users
 
